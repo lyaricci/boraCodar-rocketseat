@@ -12,7 +12,7 @@
 
 | #    | Name           | Code    | Deploy | Figma |
 | :--- | :------------- | :------ | :------|:------|
-| `05` | `Calculadora` |  [💻](https://github.com/nathalya-ricci/boraCodar-rocketseat/tree/main/05) |[🚀](lya-boracodar05-rocketseat.vercel.app) | [✨](https://www.figma.com/community/file/1202607074523509182) |
+| [05](https://github.com/nathalya-ricci/boraCodar-rocketseat/tree/main/05) | `Calculadora` |  [💻](https://github.com/nathalya-ricci/boraCodar-rocketseat/tree/main/05) |[🚀](lya-boracodar05-rocketseat.vercel.app) | [✨](https://www.figma.com/community/file/1202607074523509182) |
 
 ---
 
