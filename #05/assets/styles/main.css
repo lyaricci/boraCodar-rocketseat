@@ -87,6 +87,10 @@ body * {
 	opacity: 50%;
 }
 
+.keyboard button:first-child {
+	color: #975DFA;
+}
+
 .keyboard button:nth-child(4n):not(:last-child) {
 	background: linear-gradient(
 			180deg,
