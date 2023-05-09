@@ -12,8 +12,8 @@
 
 | #    | Name           | Code    | Deploy | Figma |
 | :--- | :------------- | :------ | :------|:------|
-| [05](https://github.com/nathalya-ricci/boraCodar-rocketseat/tree/main/05) | `Calculadora` |  [💻](https://github.com/nathalya-ricci/boraCodar-rocketseat/tree/main/05) |[🚀](https://lya-boracodar05-rocketseat.netlify.app/) | [✨](https://www.figma.com/community/file/1202607074523509182) |
+| [05](https://github.com/lyaricci/boraCodar-rocketseat/tree/main/05) | `Calculadora` |  [💻](https://github.com/lyaricci/boraCodar-rocketseat/tree/main/05) |[🚀](https://lya-boracodar05-rocketseat.netlify.app/) | [✨](https://www.figma.com/community/file/1202607074523509182) |
 
 ---
 
-Coded by: [@nathalya-ricci](https://www.linkedin.com/in/nathalya-ricci/)
+Coded by: [@lyaricci](https://www.linkedin.com/in/nathalya-ricci/)
